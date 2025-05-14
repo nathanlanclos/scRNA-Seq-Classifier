@@ -10,7 +10,6 @@ conda env create -f environment.yml
 ```
 To run the Streamlit webapp: 
 ```
-
 cd scRNA-Seq-Classifier
 streamlit run streamlit.py
 ```
